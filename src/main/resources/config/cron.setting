@@ -1,0 +1,6 @@
+# 每天20点20分 定时任务执行
+[com.bigdata.logfile.job]
+##FileJob.execute =*/10 * * * * *
+##FileJob.execute =12 11 * * *
+##FileJob.execute =*/5 * * * * *
+FileJob.execute =59 23 * * *
